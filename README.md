@@ -26,23 +26,23 @@ This application demonstrates the trade-off between search speed (scanned points
 
 ### Main Window
 The core visualization showing Voronoi cells, data points, and the search radius.
-![Main Window](screenshots/main_window.png)
+![Main Window](main_window.png)
 
 ### Dataset Generation
 Generate semantic datasets using Gemini.
-![Dataset Generation](screenshots/dataset_generation.png)
+![Dataset Generation](dataset_generation.png)
 
 ### Algorithm Control
 Toggle between Brute Force and IVF, and tune parameters like N-Probes.
-![Algorithm Control](screenshots/algorithm_control.png)
+![Algorithm Control](algorithm_control.png)
 
 ### Performance Metrics
 Real-time feedback on points scanned versus accuracy (Recall).
-![Performance Metrics](screenshots/performance_metrics.png)
+![Performance Metrics](performance_metrics.png)
 
 ### Nearest Neighbors Results
 The resulting items found by the algorithm.
-![Nearest Neighbors Results](screenshots/nearest_neighbors_results.png)
+![Nearest Neighbors Results](nearest_neighbors_results.png)
 
 ## Setup & Run
 
